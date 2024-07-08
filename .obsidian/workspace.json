@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "de6d6ed11e536a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28511924d95a860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041b2debe2e1bb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5080d66c6b901a5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "68c9ea1f65b7db8a",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-readme",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c644734239b0546",
+    "type": "split",
+    "children": [
+      {
+        "id": "e128a8eaad5726cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1a7c676a79efaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba21bb7c5c2e4fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02d162f561dde301",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ac328c3121320af",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbff006cc8f4adcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e7cb9abec063b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2ed88b10587a389",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4dd632bf4cd14e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a2e020d6cd0e67f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md"
+              }
+            }
+          },
+          {
+            "id": "74bdb0643398e5b4",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "rpg-manager:RPG Manager": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "3c1a7c676a79efaa",
+  "lastOpenFiles": [
+    "Campaigns/Eternum/01. Adventures/Dominação Abissal/Chapters/5.1 - Eles Conseguiram.md",
+    "Campaigns/Eternum/01. Adventures/Guerra Santa/Guerra Santa.md",
+    "Campaigns/Eternum/01. Adventures/Dominação Abissal/Dominação Abissal.md",
+    "Campaigns/Eternum/01. Adventures/Dominação Abissal/Chapters",
+    "Campaigns/Eternum/06. Factions/Os Cinquenta.md",
+    "Campaigns/Eternum/04. Events/Invocaram com sucesso ᛈᛖᛞᚱᚩ, O Subjugador de Deuses.md",
+    "Campaigns/Eternum/03. Non Player Characters/ᛋᚪᚳᚱᛁᚠíᚳᛁᚩ, O Iron Revenant.md",
+    "Campaigns/Eternum/03. Non Player Characters/ᛈᛖᛞᚱᚩ, O Subjugador de Deuses.md",
+    "Campaigns/Eternum/01. Adventures/Guerra Santa",
+    "Campaigns/Eternum/01. Adventures/Dominação Abissal",
+    "Campaigns/Eternum/Eternum.md",
+    "Campaigns/Eternum/06. Factions",
+    "Campaigns/Eternum/04. Events",
+    "Campaigns/Eternum/03. Non Player Characters",
+    "Campaigns/Eternum/01. Adventures",
+    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei_.md",
+    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei. -Sal.md",
+    "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
+    "Campaigns/Célula-Tronco/Célula-Tronco.md",
+    "Campaigns/Eternum",
+    "Campaigns/Célula-Tronco",
+    "Campaigns",
+    "Notas/Sibuna Lhieha (História).md",
+    "Notas/Ludovico Historia.md",
+    "Notas/História do Projeto Célula-tronco.md",
+    "Notas/Historia do Peter (Hinomura).md",
+    "Notas/Historia do Jogo 1_3.md",
+    "Notas/Historia do FRAME (Mesa random).md",
+    "Notas/Chave MetaMask.md",
+    "Notas/Authy backup key.md",
+    "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Welcome.md"
+  ]
+}
