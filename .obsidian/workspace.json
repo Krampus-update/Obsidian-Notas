@@ -18,27 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5080d66c6b901a5b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "68c9ea1f65b7db8a",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-readme",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +156,10 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "3c1a7c676a79efaa",
+  "active": "041b2debe2e1bb01",
   "lastOpenFiles": [
+    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei. -Sal.md",
+    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei_.md",
     "Campaigns/Eternum/01. Adventures/Dominação Abissal/Chapters/5.1 - Eles Conseguiram.md",
     "Campaigns/Eternum/01. Adventures/Guerra Santa/Guerra Santa.md",
     "Campaigns/Eternum/01. Adventures/Dominação Abissal/Dominação Abissal.md",
@@ -192,8 +175,6 @@
     "Campaigns/Eternum/04. Events",
     "Campaigns/Eternum/03. Non Player Characters",
     "Campaigns/Eternum/01. Adventures",
-    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei_.md",
-    "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei. -Sal.md",
     "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
     "Campaigns/Eternum",
