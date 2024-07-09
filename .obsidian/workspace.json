@@ -11,8 +11,12 @@
             "id": "a5ea310b95a3ef3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,12 +56,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1dcafbe76893ee1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -73,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md"
+                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md"
               }
             }
           },
@@ -160,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +186,14 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "rpg-manager:RPG Manager": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3c1a7c676a79efaa",
+  "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
     "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+    "Campaigns/Noroi Kariudo Shinjidai e no Zensō",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Igor.md",
@@ -203,7 +218,6 @@
     "Campaigns/Eternum/Eternum.md",
     "Campaigns/Eternum/06. Factions",
     "Campaigns/Eternum/04. Events",
-    "Campaigns/Eternum/03. Non Player Characters",
     "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
     "Notas/Sibuna Lhieha (História).md",
@@ -213,7 +227,6 @@
     "Notas/Historia do Jogo 1_3.md",
     "Notas/Historia do FRAME (Mesa random).md",
     "Notas/Chave MetaMask.md",
-    "Notas/Authy backup key.md",
-    "Welcome.md"
+    "Notas/Authy backup key.md"
   ]
 }
