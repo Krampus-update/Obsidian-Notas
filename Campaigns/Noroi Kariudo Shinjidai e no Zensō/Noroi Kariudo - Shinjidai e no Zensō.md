@@ -15,6 +15,7 @@ tasks:
 ```leaflet
 image: https://i.redd.it/bjqqi9xwbm841.png
 id: Noroi-Maps
-maxZoom: 4
-minZoom: 0
+bounds:
+    - [0, 0]
+    - [100, 100]
 ```

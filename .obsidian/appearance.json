@@ -1,4 +1,5 @@
 {
   "baseFontSizeAction": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "baseFontSize": 17
 }
