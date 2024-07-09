@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showInlineTitle": true,
+  "showRibbon": true
 }

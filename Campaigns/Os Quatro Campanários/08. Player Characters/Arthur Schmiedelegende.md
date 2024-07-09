@@ -1,15 +1,10 @@
 
+
 ```RpgManager4
 id: 
   type: "playercharacter"
   campaign: "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md"
-tasks: 
-  - id: "c351a957-aa80-4a9a-8dad-98e5dd8d3522"
-    priority: 1
-    name: "Complete Player Character"
-    description: "Complete Player Character Arthur Schmiedelegende"
-    type: "creation"
-    status: "proposed"
+tasks: []
 images: 
   - path: "Assets/Arthur Schmiedelegende 1.jpg"
     caption: ""
@@ -19,15 +14,23 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-[Calço:: 1198]
-[Monótono:: `= this.Calço/10`]
-[Jota:: `= this.Calço/100`]
-[Talento:: `=this.Calço/1000`]
-[Marco:: `= this.Calço/10000`]
+`dice: 1d6+=Calço`
 
-[Centa:: `= this.Calço/6.5`]
-[Centavo:: `= this.Calço/6.5*2`]
-[Bit:: `= this.Calço/6.5*2*2.5`]
-[Quarterbit:: `= this.Calço/6.5*2*2.5*2`]
-[Roda:: `= this.Calço/6.5*2*2.5*2*4`]
-[Real:: `= this.Calço/6.5*2*2.5*2*10`]
+[Calço:: 1298] 
+[Monótono:: `= trunc(this.Calço/10)`] 
+[Jota:: `= trunc(this.Calço/100)`]
+[Talento:: `= trunc(this.Calço/1000)`] 
+[Marco:: `= trunc(this.Calço/10000)`]
+
+[Centa:: `= trunc(this.Calço/6.5)`]
+[Centavo:: `= trunc(this.Calço/6.5/2)`]
+[Bit:: `= trunc(this.Calço/6.5/2/2.5)`]
+[Quarterbit:: `= trunc(this.Calço/6.5/2/2.5/2)`]
+[Roda:: `= trunc(this.Calço/6.5/2/2.5/2/4)`]
+[Real:: `= trunc(this.Calço/6.5/2/2.5/2/10)`]
+
+[Moe::`= trunc(this.Calço/1.25)`]
+[Ferro:: `= trunc(this.Calço/1.25/2.5)`]
+[Cobre::`= trunc(this.Calço/1.25/2.5/2)`]
+[Prata::`= trunc(this.Calço/1.25/2.5/2/10)`]
+[Republica:: `= trunc(this.Calço)`]

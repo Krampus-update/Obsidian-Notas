@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "71743955888003e8",
+            "id": "d92778869796f6ff",
             "type": "leaf",
             "state": {
               "type": "rpg-manager-options",
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,18 +170,17 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "rpg-manager:RPG Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "calendarium:Open Calendarium": false
+      "rpg-manager:RPG Manager": false
     }
   },
   "active": "041b2debe2e1bb01",
   "lastOpenFiles": [
-    "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Igor.md",
+    "SPCs/SCP-002 - Fogo Fátuo.md",
     "Assets/Arthur Schmiedelegende 1.jpg",
     "Assets",
-    "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters",
     "Os Quatros Campanários/Os Quatros Campanários.md",
     "Campaigns/Os Quatro Campanários",

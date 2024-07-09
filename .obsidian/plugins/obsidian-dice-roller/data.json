@@ -5,23 +5,23 @@
   "customFormulas": [],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
-  "displayFormulaAfter": false,
+  "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
   "defaultRoll": 1,
-  "defaultFace": 100,
-  "renderer": false,
+  "defaultFace": 20,
+  "renderer": true,
   "renderAllDice": false,
-  "addToView": false,
+  "addToView": true,
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
   "diceColor": "#202020",
   "textColor": "#ffffff",
   "textFont": "Arial",
-  "showLeafOnStartup": true,
+  "showLeafOnStartup": false,
   "showDice": true,
   "displayAsEmbed": true,
   "round": "None",
@@ -73,6 +73,49 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [],
-  "version": "11.0.4"
+  "version": "11.0.4",
+  "viewResults": [
+    {
+      "result": 8,
+      "original": "1d100",
+      "resultText": "[8]",
+      "timestamp": 1720499126173,
+      "id": "BgtHFsiv8bof"
+    },
+    {
+      "result": 21,
+      "original": "2d%",
+      "resultText": "[20, 1]",
+      "timestamp": 1720499139462,
+      "id": "zsJh9uXxB4E9"
+    },
+    {
+      "result": 6,
+      "original": "1d6",
+      "resultText": "[6]",
+      "timestamp": 1720499295496,
+      "id": "Xf-xCXmtigbC"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1720499302143,
+      "id": "BhMkp0GK-elo"
+    },
+    {
+      "result": 5,
+      "original": "1d6",
+      "resultText": "[5]",
+      "timestamp": 1720499307227,
+      "id": "trMDi5oswDzy"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1720499308109,
+      "id": "wfTEdWNmkwta"
+    }
+  ]
 }

@@ -16,7 +16,7 @@
     "/"
   ],
   "autoParse": false,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,
   "notifiedOfFantasy": false,
