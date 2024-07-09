@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md"
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md"
               }
-            }
-          },
-          {
-            "id": "74bdb0643398e5b4",
-            "type": "leaf",
-            "state": {
-              "type": "MAIN_VIEW",
-              "state": {}
             }
           },
           {
@@ -152,9 +145,17 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "71743955888003e8",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,13 +171,18 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "rpg-manager:RPG Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "041b2debe2e1bb01",
+  "active": "106664010fde429b",
   "lastOpenFiles": [
-    "Os Quatros Campanários/Os Quatros Campanários.md",
+    "Assets/Arthur Schmiedelegende 1.jpg",
+    "Assets",
     "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters",
+    "Os Quatros Campanários/Os Quatros Campanários.md",
     "Campaigns/Os Quatro Campanários",
     "SPCs/SCP-002 - Fogo Fátuo.md",
     "Os Quatros Campanários",
@@ -196,10 +202,8 @@
     "Campaigns/Eternum/06. Factions",
     "Campaigns/Eternum/04. Events",
     "Campaigns/Eternum/03. Non Player Characters",
-    "Campaigns/Eternum/01. Adventures",
     "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
-    "Campaigns/Eternum",
     "Notas/Sibuna Lhieha (História).md",
     "Notas/Ludovico Historia.md",
     "Notas/História do Projeto Célula-tronco.md",
