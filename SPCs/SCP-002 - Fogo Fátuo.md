@@ -2,7 +2,6 @@
 Item: SCP-002
 Classe: Keter
 ---
-Classe do Objeto: Keter
 #### Procedimentos Especiais de Contenção
 Por enquanto não se sabe de uma forma de contenção.
 #### Descrição

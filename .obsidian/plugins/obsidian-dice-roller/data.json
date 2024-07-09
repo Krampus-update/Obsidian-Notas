@@ -4,7 +4,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
+  "displayResultsInline": true,
   "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": false,
@@ -116,6 +116,76 @@
       "resultText": "[3]",
       "timestamp": 1720499308109,
       "id": "wfTEdWNmkwta"
+    },
+    {
+      "result": 11,
+      "original": "1d6+7",
+      "resultText": "[4]+7",
+      "timestamp": 1720499487098,
+      "id": "nUHotQiEjszn"
+    },
+    {
+      "result": 12,
+      "original": "1d6+7",
+      "resultText": "[5]+7",
+      "timestamp": 1720499489611,
+      "id": "3B4YreCkunWV"
+    },
+    {
+      "result": 8,
+      "original": "1d6+7",
+      "resultText": "[1]+7",
+      "timestamp": 1720499490233,
+      "id": "xmNocrszEE9p"
+    },
+    {
+      "result": 8,
+      "original": "1d6+7",
+      "resultText": "[1]+7",
+      "timestamp": 1720499491660,
+      "id": "1fbcjQ7u2HWE"
+    },
+    {
+      "result": 11,
+      "original": "1d6+7",
+      "resultText": "[4]+7",
+      "timestamp": 1720499492042,
+      "id": "hwJfkLBE8W0C"
+    },
+    {
+      "result": 10,
+      "original": "1d6+7",
+      "resultText": "[3]+7",
+      "timestamp": 1720499492694,
+      "id": "5Uw1ZqVcTbx1"
+    },
+    {
+      "result": 10,
+      "original": "1d6+7",
+      "resultText": "[3]+7",
+      "timestamp": 1720499507065,
+      "id": "OVjtvYXGbzMr"
+    },
+    {
+      "result": 9,
+      "original": "1d6+7",
+      "resultText": "[2]+7",
+      "timestamp": 1720499507935,
+      "id": "fTsvgU2MrNGM"
+    },
+    {
+      "result": 11,
+      "original": "1d6+7",
+      "resultText": "[4]+7",
+      "timestamp": 1720499509713,
+      "id": "n3itAKvghF2r"
+    },
+    {
+      "result": 11,
+      "original": "1d6+7",
+      "resultText": "[4]+7",
+      "timestamp": 1720499512941,
+      "id": "VTV6i3Lb20rf"
     }
   ]
 }

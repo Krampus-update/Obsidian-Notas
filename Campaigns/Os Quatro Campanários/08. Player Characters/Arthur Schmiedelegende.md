@@ -14,7 +14,7 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-`dice: 1d6+=Calço`
+`dice: 1d6+7`
 
 [Calço:: 1298] 
 [Monótono:: `= trunc(this.Calço/10)`] 

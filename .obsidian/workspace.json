@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a28511924d95a860",
+        "id": "927183788cdab15f",
         "type": "tabs",
         "children": [
           {
-            "id": "041b2debe2e1bb01",
+            "id": "a5ea310b95a3ef3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,14 +52,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "02d162f561dde301",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -85,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md"
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md"
               }
             }
           },
@@ -155,11 +143,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "dca8b9f430c1f5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313a9f8c852dbcd8",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,15 +171,17 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "rpg-manager:RPG Manager": false
+      "rpg-manager:RPG Manager": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "041b2debe2e1bb01",
+  "active": "3c1a7c676a79efaa",
   "lastOpenFiles": [
-    "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
-    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
-    "Campaigns/Os Quatro Campanários/08. Player Characters/Igor.md",
     "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Igor.md",
     "Assets/Arthur Schmiedelegende 1.jpg",
     "Assets",
     "Campaigns/Os Quatro Campanários/08. Player Characters",
