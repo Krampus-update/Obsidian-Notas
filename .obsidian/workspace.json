@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -175,16 +174,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "106664010fde429b",
+  "active": "041b2debe2e1bb01",
   "lastOpenFiles": [
+    "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Assets/Arthur Schmiedelegende 1.jpg",
     "Assets",
     "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
-    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters",
     "Os Quatros Campanários/Os Quatros Campanários.md",
     "Campaigns/Os Quatro Campanários",
-    "SPCs/SCP-002 - Fogo Fátuo.md",
     "Os Quatros Campanários",
     "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei. -Sal.md",
     "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei_.md",
