@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "889a8da58a765a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac7549eb818a652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +207,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a5ea310b95a3ef3b",
+  "active": "bac7549eb818a652",
   "lastOpenFiles": [
     "SPCs/SCP-002 - Fogo Fátuo.md",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",

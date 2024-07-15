@@ -17,5 +17,7 @@ image: https://i.redd.it/bjqqi9xwbm841.png
 id: Noroi-Maps
 bounds:
     - [0, 0]
-    - [100, 100]
+    - [76.05, 100]
+scale: 25572.1
+unit: KM
 ```

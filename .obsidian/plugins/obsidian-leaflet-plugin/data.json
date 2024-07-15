@@ -1,5 +1,33 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Noroi-Maps",
+      "lastAccessed": 1720502670357,
+      "markers": [
+        {
+          "id": "ID_2a9b8bba3a3b",
+          "type": "default",
+          "loc": [
+            30.796875,
+            60
+          ],
+          "layer": "https%3A%2F%2Fi.redd.it%2Fbjqqi9xwbm841.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
