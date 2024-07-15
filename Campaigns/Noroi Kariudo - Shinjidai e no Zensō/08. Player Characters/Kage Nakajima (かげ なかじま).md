@@ -13,6 +13,7 @@ tasks:
 images: 
   - path: "Assets/Kage Nakajima (かげ なかじま) 1.jpg"
     caption: ""
+data: 
 ```
 
 [[Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md|]]
