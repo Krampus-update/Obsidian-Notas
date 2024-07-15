@@ -9,6 +9,7 @@ tasks:
     description: "Complete Campaign Noroi Kariudo Shinjidai e no Zensō"
     type: "creation"
     status: "proposed"
+images: []
 ```
 
 

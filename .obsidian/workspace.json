@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "889a8da58a765a73",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bac7549eb818a652",
+            "id": "41bbce8f3550e858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md"
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md"
               }
             }
           },
@@ -165,7 +159,7 @@
             }
           },
           {
-            "id": "d92778869796f6ff",
+            "id": "2f293d098487cab4",
             "type": "leaf",
             "state": {
               "type": "rpg-manager-options",
@@ -173,26 +167,11 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "dca8b9f430c1f5bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "313a9f8c852dbcd8",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +183,19 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "rpg-manager:RPG Manager": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "bac7549eb818a652",
+  "active": "2f293d098487cab4",
   "lastOpenFiles": [
-    "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Assets/Kage Nakajima (かげ なかじま) 1.jpg",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+    "Assets/Noroi Kariudo - Shinjidai e no Zensō 1.jpg",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō",
+    "SPCs/SCP-002 - Fogo Fátuo.md",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
@@ -234,8 +219,6 @@
     "Campaigns/Eternum/01. Adventures/Guerra Santa",
     "Campaigns/Eternum/01. Adventures/Dominação Abissal",
     "Campaigns/Eternum/Eternum.md",
-    "Campaigns/Eternum/06. Factions",
-    "Campaigns/Eternum/04. Events",
     "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
     "Notas/Sibuna Lhieha (História).md",
@@ -243,8 +226,6 @@
     "Notas/História do Projeto Célula-tronco.md",
     "Notas/Historia do Peter (Hinomura).md",
     "Notas/Historia do Jogo 1_3.md",
-    "Notas/Historia do FRAME (Mesa random).md",
-    "Notas/Chave MetaMask.md",
-    "Notas/Authy backup key.md"
+    "Notas/Historia do FRAME (Mesa random).md"
   ]
 }
