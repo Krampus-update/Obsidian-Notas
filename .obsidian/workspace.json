@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -167,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,8 +188,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f293d098487cab4",
+  "active": "e2ed88b10587a389",
   "lastOpenFiles": [
+    "Assets/Kage Nakajima (かげ なかじま) 3.jpg",
+    "Assets/Kage Nakajima (かげ なかじま) 2.jpg",
     "Assets/Kage Nakajima (かげ なかじま) 1.jpg",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
     "Assets/Noroi Kariudo - Shinjidai e no Zensō 1.jpg",

@@ -1,4 +1,4 @@
-
+	
 ```RpgManager4
 id: 
   type: "playercharacter"
@@ -11,8 +11,10 @@ tasks:
     type: "creation"
     status: "proposed"
 images: 
-  - path: "Assets/Kage Nakajima (かげ なかじま) 1.jpg"
-    caption: ""
+  - path: "Assets/Kage Nakajima (かげ なかじま) 2.jpg"
+    caption: "https://i.pinimg.com/originals/18/2c/39/182c39292b3332e1fd8064f524a868ef.jpg"
+  - path: "Assets/Kage Nakajima (かげ なかじま) 3.jpg"
+    caption: "Meu alter ego\nhttps://art.ngfiles.com/images/3298000/3298825_funkypepe_ghost-spider.png"
 data: 
 ```
 
