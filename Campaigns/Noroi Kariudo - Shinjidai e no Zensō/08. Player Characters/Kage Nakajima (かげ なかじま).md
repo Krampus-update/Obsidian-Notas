@@ -15,6 +15,10 @@ images:
     caption: "https://i.pinimg.com/originals/18/2c/39/182c39292b3332e1fd8064f524a868ef.jpg"
   - path: "Assets/Kage Nakajima (かげ なかじま) 3.jpg"
     caption: "Meu alter ego\nhttps://art.ngfiles.com/images/3298000/3298825_funkypepe_ghost-spider.png"
+  - path: "Assets/Kage Nakajima (かげ なかじま) 4latest[1]"
+    caption: ""
+  - path: "Assets/Kage Nakajima (かげ なかじま) 5latest[1]"
+    caption: ""
 data: 
 ```
 
