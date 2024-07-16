@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41bbce8f3550e858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md"
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md"
               }
             }
           },
@@ -172,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,16 +176,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f293d098487cab4",
+  "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
+    "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Assets/Kage Nakajima (かげ なかじま) 5latest[1]",
     "Assets/Kage Nakajima (かげ なかじま) 4latest[1]",
     "Assets/Kage Nakajima (かげ なかじま) 3.jpg",
     "Assets/Kage Nakajima (かげ なかじま) 2.jpg",
     "Assets/Kage Nakajima (かげ なかじま) 1.jpg",
-    "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
     "Assets/Noroi Kariudo - Shinjidai e no Zensō 1.jpg",
-    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō",
     "SPCs/SCP-002 - Fogo Fátuo.md",
@@ -221,7 +209,6 @@
     "Campaigns/Eternum/04. Events/Invocaram com sucesso ᛈᛖᛞᚱᚩ, O Subjugador de Deuses.md",
     "Campaigns/Eternum/03. Non Player Characters/ᛋᚪᚳᚱᛁᚠíᚳᛁᚩ, O Iron Revenant.md",
     "Campaigns/Eternum/03. Non Player Characters/ᛈᛖᛞᚱᚩ, O Subjugador de Deuses.md",
-    "Campaigns/Eternum/01. Adventures/Guerra Santa",
     "Campaigns/Eternum/Eternum.md",
     "Campaigns/Célula-Tronco/Projeto Células-tronco.md",
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
