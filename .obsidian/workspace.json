@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
+                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPCs/SCP-002 - Fogo Fátuo.md"
+                "file": "SPCs/SCP-003 - Porta Hipnótica.md"
               }
             }
           },
@@ -180,17 +180,17 @@
       "command-palette:Abrir paleta de comandos": false,
       "rpg-manager:RPG Manager": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
       "templater-obsidian:Templater": false,
       "runjs:RunJS": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
-    "Por.md",
     "SPCs/SCP-002 - Fogo Fátuo.md",
-    "SPCs/Sem título.md",
+    "SPCs/SCP-003 - Porta Hipnótica.md",
+    "Por.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Templates/SCP-002 - Fogo Fátuo.md",
     "Scripts",
