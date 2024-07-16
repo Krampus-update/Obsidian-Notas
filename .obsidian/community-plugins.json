@@ -7,5 +7,7 @@
   "obsidian-5e-statblocks",
   "calendarium",
   "dataview",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "templater-obsidian",
+  "runjs"
 ]

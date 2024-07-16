@@ -64,13 +64,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c71260aecd0b4d78",
+            "type": "leaf",
+            "state": {
+              "type": "runjs-codelist-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -173,11 +180,19 @@
       "command-palette:Abrir paleta de comandos": false,
       "rpg-manager:RPG Manager": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "templater-obsidian:Templater": false,
+      "runjs:RunJS": false
     }
   },
   "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
+    "Templates/SCP-002 - Fogo Fátuo.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "SPCs/SCP-002 - Fogo Fátuo.md",
+    "Scripts",
+    "Templates",
+    "SPCs/Sem título.md",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Assets/Kage Nakajima (かげ なかじま) 5latest[1]",
@@ -188,9 +203,7 @@
     "Assets/Noroi Kariudo - Shinjidai e no Zensō 1.jpg",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō",
-    "SPCs/SCP-002 - Fogo Fátuo.md",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō",
-    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Igor.md",
     "Assets/Arthur Schmiedelegende 1.jpg",
@@ -198,13 +211,11 @@
     "Campaigns/Os Quatro Campanários/08. Player Characters",
     "Os Quatros Campanários/Os Quatros Campanários.md",
     "Campaigns/Os Quatro Campanários",
-    "Os Quatros Campanários",
     "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei. -Sal.md",
     "Campaigns/Célula-Tronco/Projeto_ Célula-tronco - Temporada 1 - O Rei_.md",
     "Campaigns/Eternum/01. Adventures/Dominação Abissal/Chapters/5.1 - Eles Conseguiram.md",
     "Campaigns/Eternum/01. Adventures/Guerra Santa/Guerra Santa.md",
     "Campaigns/Eternum/01. Adventures/Dominação Abissal/Dominação Abissal.md",
-    "Campaigns/Eternum/01. Adventures/Dominação Abissal/Chapters",
     "Campaigns/Eternum/06. Factions/Os Cinquenta.md",
     "Campaigns/Eternum/04. Events/Invocaram com sucesso ᛈᛖᛞᚱᚩ, O Subjugador de Deuses.md",
     "Campaigns/Eternum/03. Non Player Characters/ᛋᚪᚳᚱᛁᚠíᚳᛁᚩ, O Iron Revenant.md",
@@ -216,7 +227,6 @@
     "Notas/Ludovico Historia.md",
     "Notas/História do Projeto Célula-tronco.md",
     "Notas/Historia do Peter (Hinomura).md",
-    "Notas/Historia do Jogo 1_3.md",
-    "Notas/Historia do FRAME (Mesa random).md"
+    "Notas/Historia do Jogo 1_3.md"
   ]
 }
