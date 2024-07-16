@@ -9,5 +9,7 @@
   "dataview",
   "obsidian-leaflet-plugin",
   "templater-obsidian",
-  "runjs"
+  "runjs",
+  "obsidian-mind-map",
+  "obsidian42-brat"
 ]

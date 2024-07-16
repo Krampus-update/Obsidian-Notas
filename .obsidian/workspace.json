@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 244.5
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md"
+                "file": "SPCs/SCP-002 - Fogo Fátuo.md"
               }
             }
           },
@@ -182,17 +182,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false,
       "templater-obsidian:Templater": false,
-      "runjs:RunJS": false
+      "runjs:RunJS": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
-    "Templates/SCP-002 - Fogo Fátuo.md",
-    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "Por.md",
     "SPCs/SCP-002 - Fogo Fátuo.md",
+    "SPCs/Sem título.md",
+    "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+    "Templates/SCP-002 - Fogo Fátuo.md",
     "Scripts",
     "Templates",
-    "SPCs/Sem título.md",
     "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Assets/Kage Nakajima (かげ なかじま) 5latest[1]",
@@ -226,7 +228,6 @@
     "Notas/Sibuna Lhieha (História).md",
     "Notas/Ludovico Historia.md",
     "Notas/História do Projeto Célula-tronco.md",
-    "Notas/Historia do Peter (Hinomura).md",
-    "Notas/Historia do Jogo 1_3.md"
+    "Notas/Historia do Peter (Hinomura).md"
   ]
 }
