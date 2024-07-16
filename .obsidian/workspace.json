@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPCs/SCP-003 - Porta Hipnótica.md",
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPCs/SCP-003 - Porta Hipnótica.md"
+                "file": "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md"
               }
             }
           },
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,17 +185,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c1a7c676a79efaa",
+  "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
-    "SPCs/SCP-002 - Fogo Fátuo.md",
-    "SPCs/SCP-003 - Porta Hipnótica.md",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/Noroi Kariudo Shinjidai e no Zensō.md",
+    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
+    "Campaigns/Os Quatro Campanários/SPCs/SCP-003 - Porta Hipnótica.md",
+    "Campaigns/Os Quatro Campanários/SPCs/SCP-002 - Fogo Fátuo.md",
     "Por.md",
     "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
     "Templates/SCP-002 - Fogo Fátuo.md",
     "Scripts",
     "Templates",
-    "Campaigns/Noroi Kariudo Shinjidai e no Zensō/Noroi Kariudo - Shinjidai e no Zensō.md",
-    "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Assets/Kage Nakajima (かげ なかじま) 5latest[1]",
     "Assets/Kage Nakajima (かげ なかじま) 4latest[1]",
     "Assets/Kage Nakajima (かげ なかじま) 3.jpg",
