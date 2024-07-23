@@ -2,6 +2,29 @@
   "automaticMove": true,
   "useSceneAnalyser": true,
   "version": "4.1.14",
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "customName": "Anotações",
+      "type": "LongText",
+      "id": "_anotaes",
+      "isCustom": true,
+      "customTypes": [
+        "campaign",
+        "adventure",
+        "scene",
+        "session",
+        "nonplayercharacter",
+        "playercharacter",
+        "event",
+        "location",
+        "clue",
+        "faction",
+        "subplot",
+        "chapter",
+        "object",
+        "monster"
+      ]
+    }
+  ],
   "forceFullWidth": true
 }
