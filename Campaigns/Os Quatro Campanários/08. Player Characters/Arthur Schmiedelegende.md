@@ -1,20 +1,20 @@
 ---
-Calço: 1438
-Monótono: 143.8
-Jota: 14.38
-Talento: 1.4380000000000002
-Marco: 0.1438
-Centa: 221.23076923076923
-Centavo: 110.61538461538461
-Bit: 44.246153846153845
-QBit: 22.123076923076923
-Roda: 5.530769230769231
-Real: 2.212307692307692
-Moe: 1150.4
-Ferro: 460.16
-Cobre: 230.08
-Prata: 23.008000000000003
-Republica: 1.9173333333333336
+Calço: 2438
+Monótono: 243.8
+Jota: 24.380000000000003
+Talento: 2.438
+Marco: 0.24380000000000002
+Centa: 375.0769230769231
+Centavo: 187.53846153846155
+Bit: 75.01538461538462
+QBit: 37.50769230769231
+Roda: 9.376923076923077
+Real: 3.750769230769231
+Moe: 1950.4
+Ferro: 780.1600000000001
+Cobre: 390.08000000000004
+Prata: 39.008
+Republica: 3.250666666666667
 ---
 
 ```RpgManager4
@@ -34,7 +34,7 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-[Calço::`INPUT[number():Calço]`]
+Calço:`INPUT[number():Calço]`
 [Monótono:: `VIEW[number({Calço}/10)][math:Monótono]`]
 [Jota:: `VIEW[number({Monótono}/10)][math:Jota]`]
 [Talento:: `VIEW[number({Jota}/10)][math:Talento]`]
