@@ -182,8 +182,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "runjs:RunJS": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "a5ea310b95a3ef3b",
