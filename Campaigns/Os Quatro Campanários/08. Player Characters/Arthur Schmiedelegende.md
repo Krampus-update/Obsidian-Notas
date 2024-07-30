@@ -16,7 +16,7 @@ data:
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
 
-[Calço:: 898] 
+[Calço:: 1498] 
 [Monótono:: `= trunc(this.Calço/10)`] 
 [Jota:: `= trunc(this.Calço/100)`]
 [Talento:: `= trunc(this.Calço/1000)`] 
