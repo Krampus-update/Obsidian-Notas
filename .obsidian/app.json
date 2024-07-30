@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "source",
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "readableLineLength": false,
+  "showLineNumber": true
 }

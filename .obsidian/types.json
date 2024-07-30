@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Monótono": "number",
+    "Jota": "number",
+    "Talento": "number",
+    "Marco": "number",
+    "Classe": "multitext"
+  }
+}

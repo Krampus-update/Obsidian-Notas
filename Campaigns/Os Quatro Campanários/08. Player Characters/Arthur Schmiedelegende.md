@@ -1,4 +1,21 @@
-
+---
+Calço: 1498
+Monótono: 149.8
+Jota: 14.98
+Talento: 1.498
+Marco: 0.1498
+Centa: 230.46153846153845
+Centavo: 115.23076923076923
+Bit: 46.09230769230769
+QBit: 23.046153846153846
+Roda: 5.7615384615384615
+Real: 2.3046153846153845
+Moe: 1198.4
+Ferro: 479.36
+Cobre: 239.68
+Prata: 23.968
+Republica: 1.9973333333333334
+---
 
 ```RpgManager4
 id: 
@@ -15,22 +32,21 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
+Calço:`INPUT[number():Calço]`
+Monótono: `VIEW[number({Calço}/10)][math:Monótono]`
+Jota: `VIEW[number({Monótono}/10)][math:Jota]`
+Talento: `VIEW[number({Jota}/10)][math:Talento]`
+Marco: `VIEW[number({Talento}/10)][math:Marco]`
 
-[Calço:: 1498] 
-[Monótono:: `= trunc(this.Calço/10)`] 
-[Jota:: `= trunc(this.Calço/100)`]
-[Talento:: `= trunc(this.Calço/1000)`] 
-[Marco:: `= trunc(this.Calço/10000)`]
+Centa: `VIEW[number({Calço}/6.5)][math:Centa]`
+Centavo: `VIEW[number({Centa}/2)][math:Centavo]`
+Bit: `VIEW[number({Centavo}/2.5)][math:Bit]`
+Quarterbit: `VIEW[number({Bit}/2)][math:QBit]`
+Roda: `VIEW[number({QBit}/4)][math:Roda]`
+Real: `VIEW[number({QBit}/10)][math:Real]`
 
-[Centa:: `= trunc(this.Calço/6.5)`]
-[Centavo:: `= trunc(this.Calço/6.5/2)`]
-[Bit:: `= trunc(this.Calço/6.5/2/2.5)`]
-[Quarterbit:: `= trunc(this.Calço/6.5/2/2.5/2)`]
-[Roda:: `= trunc(this.Calço/6.5/2/2.5/2/4)`]
-[Real:: `= trunc(this.Calço/6.5/2/2.5/2/10)`]
-
-[Moe::`= trunc(this.Calço/1.25)`]
-[Ferro:: `= trunc(this.Calço/1.25/2.5)`]
-[Cobre::`= trunc(this.Calço/1.25/2.5/2)`]
-[Prata::`= trunc(this.Calço/1.25/2.5/2/10)`]
-[Republica:: `= trunc(this.Calço)`]
+Moe: `VIEW[number({Calço}/1.25)][math:Moe]`
+Ferro: `VIEW[number({Moe}/2.5)][math:Ferro]`
+Cobre: `VIEW[number({Ferro}/2)][math:Cobre]`
+Prata: `VIEW[number({Cobre}/10)][math:Prata]`
+Republica: `VIEW[number({Prata}/12)][math:Republica]`

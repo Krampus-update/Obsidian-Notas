@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "14a2c11af23b1c32"
+          }
+        ]
+      },
+      {
+        "id": "23759772afadfff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7baf24a2780f719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Os Quatro Campanários/08. Player Characters/Arthur Schmiedelegende.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "14a2c11af23b1c32"
           }
         ]
       }
@@ -167,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +202,12 @@
       "rpg-manager:RPG Manager": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "runjs:RunJS": false,
-      "obsidian42-brat:BRAT": false
+      "runjs:RunJS": true,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": true
     }
   },
-  "active": "a5ea310b95a3ef3b",
+  "active": "c7baf24a2780f719",
   "lastOpenFiles": [
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/Noroi Kariudo Shinjidai e no Zensō.md",
