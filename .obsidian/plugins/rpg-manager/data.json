@@ -24,6 +24,26 @@
         "object",
         "monster"
       ]
+    },
+    {
+      "customName": "Altura",
+      "type": "Text",
+      "id": "_altura",
+      "isCustom": true,
+      "customTypes": [
+        "nonplayercharacter",
+        "playercharacter"
+      ]
+    },
+    {
+      "customName": "Peso",
+      "type": "Text",
+      "id": "_peso",
+      "isCustom": true,
+      "customTypes": [
+        "nonplayercharacter",
+        "playercharacter"
+      ]
     }
   ],
   "forceFullWidth": true

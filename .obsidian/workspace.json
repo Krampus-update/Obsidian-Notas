@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "4ac328c3121320af",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +183,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "runjs:RunJS": true,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": true
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2f293d098487cab4",
+  "active": "a5ea310b95a3ef3b",
   "lastOpenFiles": [
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/Noroi Kariudo Shinjidai e no Zensō.md",
