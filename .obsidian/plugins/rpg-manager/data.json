@@ -44,6 +44,15 @@
         "nonplayercharacter",
         "playercharacter"
       ]
+    },
+    {
+      "customName": "Proficiência ",
+      "type": "LongText",
+      "id": "_proficincia",
+      "isCustom": true,
+      "customTypes": [
+        "playercharacter"
+      ]
     }
   ],
   "forceFullWidth": true

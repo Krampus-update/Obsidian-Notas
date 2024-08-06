@@ -1,9 +1,9 @@
 ---
 Calço: 2837
 Monótono: 283.7
-Jota: 28.369999999999997
-Talento: 2.8369999999999997
-Marco: 0.28369999999999995
+Jota: 28.37
+Talento: 2.837
+Marco: 0.2837
 Centa: 436.46153846153845
 Centavo: 218.23076923076923
 Bit: 87.29230769230769
@@ -30,24 +30,25 @@ data:
   _anotaes: "flor rosa azulada localizada entre o I e o T no mapa."
   _altura: "1,98 m"
   _peso: "110 kg"
+  _proficincia: "# Avançada\nArtificiaria, Simpatia, Aritimética, Esgrima\n____________________________________________"
 ```
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-Calço:`INPUT[number():Calço]`
+>Calço:`INPUT[number():Calço]`
 [Monótono:: `VIEW[number({Calço}/10)][math:Monótono]`]
-[Jota:: `VIEW[number({Monótono}/10)][math:Jota]`]
-[Talento:: `VIEW[number({Jota}/10)][math:Talento]`]
-[Marco:: `VIEW[number({Talento}/10)][math:Marco]`]
-	
-[Centa:: `VIEW[number({Calço}/6.5)][math:Centa]`]
+[Jota:: `VIEW[number({Calço}/100)][math:Jota]`]
+[Talento:: `VIEW[number({Calço}/1000)][math:Talento]`]
+[Marco:: `VIEW[number({Calço}/10000)][math:Marco]`]
+
+> [!info] [Centa:: `VIEW[number({Calço}/6.5)][math:Centa]`]
 [Centavo:: `VIEW[number({Centa}/2)][math:Centavo]`]
 [Bit:: `VIEW[number({Centavo}/2.5)][math:Bit]`]
 [Quarterbit:: `VIEW[number({Bit}/2)][math:QBit]`]
 [Roda:: `VIEW[number({QBit}/4)][math:Roda]`]
 [Real:: `VIEW[number({QBit}/10)][math:Real]`]
 
-[Moe:: `VIEW[number({Calço}/1.25)][math:Moe]`]
+>[Moe:: `VIEW[number({Calço}/1.25)][math:Moe]`]
 [Ferro:: `VIEW[number({Moe}/2.5)][math:Ferro]`]
 [Cobre:: `VIEW[number({Ferro}/2)][math:Cobre]`]
 [Prata:: `VIEW[number({Cobre}/10)][math:Prata]`]
