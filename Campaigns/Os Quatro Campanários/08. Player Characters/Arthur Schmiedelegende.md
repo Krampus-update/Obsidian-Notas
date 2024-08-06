@@ -1,20 +1,20 @@
 ---
-Calço: 1538
-Monótono: 153.8
-Jota: 15.38
-Talento: 1.538
-Marco: 0.1538
-Centa: 236.6153846153846
-Centavo: 118.3076923076923
-Bit: 47.323076923076925
-QBit: 23.661538461538463
-Roda: 5.915384615384616
-Real: 2.3661538461538463
-Moe: 1230.4
-Ferro: 492.16
-Cobre: 246.08
-Prata: 24.608
-Republica: 2.050666666666667
+Calço: 2837
+Monótono: 283.7
+Jota: 28.369999999999997
+Talento: 2.8369999999999997
+Marco: 0.28369999999999995
+Centa: 436.46153846153845
+Centavo: 218.23076923076923
+Bit: 87.29230769230769
+QBit: 43.646153846153844
+Roda: 10.911538461538461
+Real: 4.364615384615385
+Moe: 2269.6
+Ferro: 907.8399999999999
+Cobre: 453.91999999999996
+Prata: 45.391999999999996
+Republica: 3.782666666666666
 ---
 
 ```RpgManager4
@@ -39,7 +39,7 @@ Calço:`INPUT[number():Calço]`
 [Jota:: `VIEW[number({Monótono}/10)][math:Jota]`]
 [Talento:: `VIEW[number({Jota}/10)][math:Talento]`]
 [Marco:: `VIEW[number({Talento}/10)][math:Marco]`]
-
+	
 [Centa:: `VIEW[number({Calço}/6.5)][math:Centa]`]
 [Centavo:: `VIEW[number({Centa}/2)][math:Centavo]`]
 [Bit:: `VIEW[number({Centavo}/2.5)][math:Bit]`]
