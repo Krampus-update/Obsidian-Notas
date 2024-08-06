@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +182,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "runjs:RunJS": true,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "a5ea310b95a3ef3b",
+  "active": "2f293d098487cab4",
   "lastOpenFiles": [
+    "Assets/Arthur Schmiedelegende 2.png",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/08. Player Characters/Kage Nakajima (かげ なかじま).md",
     "Campaigns/Noroi Kariudo - Shinjidai e no Zensō/Noroi Kariudo Shinjidai e no Zensō.md",
     "Campaigns/Os Quatro Campanários/SPCs/SCP-003 - Porta Hipnótica.md",
@@ -227,7 +228,6 @@
     "Campaigns/Célula-Tronco/Célula-Tronco.md",
     "Notas/Sibuna Lhieha (História).md",
     "Notas/Ludovico Historia.md",
-    "Notas/História do Projeto Célula-tronco.md",
-    "Notas/Historia do Peter (Hinomura).md"
+    "Notas/História do Projeto Célula-tronco.md"
   ]
 }

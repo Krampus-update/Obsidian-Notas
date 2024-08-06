@@ -1,20 +1,20 @@
 ---
-Calço: 2538
-Monótono: 253.8
-Jota: 25.380000000000003
-Talento: 2.5380000000000003
-Marco: 0.2538
-Centa: 390.46153846153845
-Centavo: 195.23076923076923
-Bit: 78.09230769230768
-QBit: 39.04615384615384
-Roda: 9.76153846153846
-Real: 3.904615384615384
-Moe: 2030.4
-Ferro: 812.1600000000001
-Cobre: 406.08000000000004
-Prata: 40.608000000000004
-Republica: 3.3840000000000003
+Calço: 1538
+Monótono: 153.8
+Jota: 15.38
+Talento: 1.538
+Marco: 0.1538
+Centa: 236.6153846153846
+Centavo: 118.3076923076923
+Bit: 47.323076923076925
+QBit: 23.661538461538463
+Roda: 5.915384615384616
+Real: 2.3661538461538463
+Moe: 1230.4
+Ferro: 492.16
+Cobre: 246.08
+Prata: 24.608
+Republica: 2.050666666666667
 ---
 
 ```RpgManager4
@@ -23,8 +23,8 @@ id:
   campaign: "Campaigns/Os Quatro Campanários/Os Quatro Campanários.md"
 tasks: []
 images: 
-  - path: "Assets/Arthur Schmiedelegende 1.jpg"
-    caption: ""
+  - path: "Assets/Arthur Schmiedelegende 2.png"
+    caption: "Eu Mesmo"
 data: 
   description: "Arthur era um jovem nascido na movimentada cidade de Lature, localizada ao lado de um vulcão ativo no Império Arturiano. A cidade era conhecida por seus ricos depósitos de minerais que eram minerados e usados para criar poderosas armas para a guerra contínua contra demônios. Lature também era conhecida como o berço dos ferreiros mais habilidosos do império.\n\nApesar de crescer em uma cidade cheia de artesãos talentosos e guerreiros, Arthur sentia que não se encaixava completamente. Ele não era o melhor ferreiro nem o mais forte mineiro, e frequentemente se perguntava qual era seu verdadeiro propósito na vida.\n\nEm um dia fatídico, um homem misterioso da Universidade, uma instituição de prestígio conhecida por seus estudos avançados em ciência e magia, visitou Lature. Intrigado pela natureza inquisitiva de Arthur e sua sede de conhecimento, o homem o apresentou ao conceito de \"simpatia\".\n\nA simpatia era uma forma rara e poderosa de magia que permitia às pessoas estabelecerem conexões profundas com o mundo ao seu redor, semelhante ao emaranhamento quântico. O homem da Universidade viu um grande potencial em Arthur e o convidou a estudar na instituição, onde ele poderia dominar e aprimorar essa habilidade única.\n\nDeterminado a descobrir sua verdadeira vocação, Arthur aceitou a oferta do homem e embarcou em uma jornada rumo à Universidade. No caminho, o homem ensinou a Arthur os princípios básicos.\n\nApesar de enfrentar muitos desafios e dúvidas ao longo do caminho, o talento natural e a determinação inabalável de Arthur impressionaram os professores da Universidade, Fazendo ele ser aprovado na Universidade."
   _anotaes: "flor rosa azulada localizada entre o I e o T no mapa."
@@ -34,7 +34,7 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-[Calço::`INPUT[number():Calço]`]
+Calço:`INPUT[number():Calço]`
 [Monótono:: `VIEW[number({Calço}/10)][math:Monótono]`]
 [Jota:: `VIEW[number({Monótono}/10)][math:Jota]`]
 [Talento:: `VIEW[number({Jota}/10)][math:Talento]`]
