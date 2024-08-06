@@ -34,7 +34,7 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
-Calço:`INPUT[number():Calço]`
+[Calço::`INPUT[number():Calço]`]
 [Monótono:: `VIEW[number({Calço}/10)][math:Monótono]`]
 [Jota:: `VIEW[number({Monótono}/10)][math:Jota]`]
 [Talento:: `VIEW[number({Jota}/10)][math:Talento]`]
