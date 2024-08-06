@@ -35,20 +35,20 @@ data:
 
 [[Campaigns/Os Quatro Campanários/Os Quatro Campanários.md|]]
 
->Calço:`INPUT[number():Calço]`
+Calço:`INPUT[number():Calço]`
 [Monótono:: `VIEW[number({Calço}/10)][math:Monótono]`]
 [Jota:: `VIEW[number({Calço}/100)][math:Jota]`]
 [Talento:: `VIEW[number({Calço}/1000)][math:Talento]`]
 [Marco:: `VIEW[number({Calço}/10000)][math:Marco]`]
 
-> [!info] [Centa:: `VIEW[number({Calço}/6.5)][math:Centa]`]
+[Centa:: `VIEW[number({Calço}/6.5)][math:Centa]`]
 [Centavo:: `VIEW[number({Centa}/2)][math:Centavo]`]
 [Bit:: `VIEW[number({Centavo}/2.5)][math:Bit]`]
 [Quarterbit:: `VIEW[number({Bit}/2)][math:QBit]`]
 [Roda:: `VIEW[number({QBit}/4)][math:Roda]`]
 [Real:: `VIEW[number({QBit}/10)][math:Real]`]
 
->[Moe:: `VIEW[number({Calço}/1.25)][math:Moe]`]
+[Moe:: `VIEW[number({Calço}/1.25)][math:Moe]`]
 [Ferro:: `VIEW[number({Moe}/2.5)][math:Ferro]`]
 [Cobre:: `VIEW[number({Ferro}/2)][math:Cobre]`]
 [Prata:: `VIEW[number({Cobre}/10)][math:Prata]`]
